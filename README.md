@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DiegoNathanael
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning JavaScript and Front-end Frameworks.
+- 🌱 I’m currently learning React and Node.js.
 
 <!---
 DiegoNathanael/DiegoNathanael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
