@@ -1,4 +1,4 @@
-👋 Hi, I’m Diego Nathanael
-👀 I’m interested in Web Development
-🌱 I’m currently learning ReactJS
-🗣️ We stay hungry, we devour
+- 👋 Hi, I’m Diego Nathanael
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning JavaScript front-end frameworks
+- 🗣️ We stay hungry, we devour
