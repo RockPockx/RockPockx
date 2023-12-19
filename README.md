@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Diego Nathanael
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript front-end frameworks
+- 👀 I’m interested in Full-Stack Web Development
+- 🌱 I’m currently learning Node.js
 - 🗣️ We stay hungry, we devour
