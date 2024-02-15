@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Diego Nathanael
-- 👀 I’m interested in Full-Stack Web Development
-- 🌱 I’m currently learning Node.js
+- 👀 I’m interested in Full-Stack Web Development and Mobile App Development
+- 🌱 I’m currently learning Dart and Flutter
 - 🗣️ We stay hungry, we devour
