@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Diego Nathanael
 - 👀 I’m interested in Full-Stack Web Development
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning Laravel and CMS
 - 🗣️ We stay hungry, we devour
